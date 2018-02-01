@@ -1,17 +1,3 @@
-# game-
-This is a bomb. You need to unlock your password as soon as possible。Bomb blast, please enter the password to remove the bomb。
- boomkey = random.randint(1,10)
-        boomstat = 1
-        looptime = 1
-        while looptime<=3:
-If you put 0 The password seems too small
-If you put 10 The password seems too big。
-Congratulations! Get rid of the bomb。
-Congratulations! Get rid of the bomb
-
-
-
-
 Big picture
 I try to do a time bomb for my possible project. I want this project to be the game of guessing the password of the bomb. The bomb will explode if you still don’t get the right password until the end of the time.
 
